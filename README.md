@@ -5,23 +5,14 @@
 ```py
 class ProfileInfo:
     def __init__(self):
-        self.username = "ovosimpatico"
-        self.age = 19
+        self.username = "Pablo Borba Leal"
+        self.age = 22
         self.location = "Brazil"
-        self.hobby = "Coding & Gaming"
-        self.discord = "ovosimpatico"
+        self.hobby = "Coding"
         self.mainlang = "Python"
         self.os = "Fedora Linux"
         self.ide = "VSCodium"
   ```
-
-<br>
-<p>
-    <figure align="center">
-        <img src="https://media.tenor.com/87F-ga-VtA0AAAAC/anime-chill.gif"></img>
-    </figure>
-</p>
-<br>
 <details>
     <summary>Languages I Use</summary>
     <br>
