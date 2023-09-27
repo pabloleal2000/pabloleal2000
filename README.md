@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%237848E6&center=true&lines=Hi+there!+Welcome+to+my+profile!">
+    <img src="[https://readme-typing-svg.herokuapp.com?color=%237848E6&center=true&lines=Hi+there!+Welcome+to+my+profile!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6F0076&width=435&lines=Ola%2C+bem+vindo+ao+meu+perfil;hi%2C+welcome+to+my+profile)">
 </p>
 
 ```py
