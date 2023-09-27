@@ -20,3 +20,10 @@ class ProfileInfo:
 <p align="center">
     <img width="300px" height="135px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloleal2000&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"></img>
 </p>
+
+<div>
+   <a href="https://www.linkedin.com/in/thallissousa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href = "mailto:thallissousa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+   <a href="https://t.me/thallissousa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+ 
+  </a>
