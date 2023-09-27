@@ -5,7 +5,7 @@
 ```py
 class ProfileInfo:
     def __init__(self):
-        self.username = "Pablo Borba Leal"
+        self.username = "pabloleal2000"
         self.age = 22
         self.location = "Brazil"
         self.hobby = "Coding"
