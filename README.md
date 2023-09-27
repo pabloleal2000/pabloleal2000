@@ -6,7 +6,7 @@
 <p align="center">
     <img width="300px" height="130px" src="https://github-readme-stats.vercel.app/api?username=pabloleal2000&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"></img>
     <img width="300px" height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=pabloleal2000&theme=tokyonight&hide_border=true"></img>
-    <img width="300px" height="135px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloleal2000&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"></img>
+    <img width="300px" height="130px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloleal2000&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"></img>
 </p>
 
 ```py
