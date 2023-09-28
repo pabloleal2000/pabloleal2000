@@ -2,17 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Bem+vindo+ao+meu+perfil+%22);print(%22Welcome+to+my+profile%22)">
 </p>
 
-```py
-class ProfileInfo:
-    def __init__(self):
-        self.username = "pabloleal2000"
-        self.age = 22
-        self.location = "Brazil"
-        self.hobby = "Coding"
-        self.mainlang = "Python"
-        self.os = "Ubuntu"
-        self.ide = "VSCode"
-  ```
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pabloleal2000&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pabloleal2000&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pabloleal2000&theme=nord_dark) |
 | :-: | :-: | :-: |
