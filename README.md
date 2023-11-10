@@ -8,7 +8,7 @@
 - 💻 Languages Learned:
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80" height="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="80" height="80">
           
 
 - 🕒 Languages to Learn:
