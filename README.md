@@ -2,15 +2,18 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Bem+vindo+ao+meu+perfil+%22);print(%22Welcome+to+my+profile%22)">
 </p>
 
-<figure style="display: flex; justify-content: center;">
-    <h3 style="align-self: center;">Programming</h3>
-    <img style="margin: 0 5px;" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-    <img style="margin: 0 5px;" alt="R" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-    <img style="margin: 0 5px;" alt="C" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img style="margin: 0 5px;" alt="Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-    <img style="margin: 0 5px;" alt="Assembly" height="60" width="80" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png">
-    <img style="margin: 0 5px;" alt="Arduino" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
-</figure>
+---
+
+
+- 💻 Languages Learned:
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80" height="80">
+
+- 🕒 Languages to Learn:
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80" height="80">
+  
+---
 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pabloleal2000&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pabloleal2000&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pabloleal2000&theme=nord_dark) |
