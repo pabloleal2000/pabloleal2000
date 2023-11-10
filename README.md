@@ -1,6 +1,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Bem+vindo+ao+meu+perfil+%22);print(%22Welcome+to+my+profile%22)">
 </p>
+
 ---
 
 - 💻 Languages Learned:
