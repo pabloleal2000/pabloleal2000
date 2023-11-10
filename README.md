@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Bem+vindo+ao+meu+perfil+%22);print(%22Welcome+to+my+profile%22)">
 </p>
-
+---
 
 - 💻 Languages Learned:
 
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="80" height="80">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" height="80">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80" height="80">
-
+---
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pabloleal2000&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pabloleal2000&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pabloleal2000&theme=nord_dark) |
 | :-: | :-: | :-: |
