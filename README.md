@@ -13,15 +13,19 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="80" height="80">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="80" height="80">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="80" height="80">
-          
-        
-    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="80" height="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" height="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="80">
 
 - 🕒 Languages to Learn:
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80" height="80">
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" height="80">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="80">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" height="80">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="80" height="80">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" height="80">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80" height="80">
 ---
 
 
