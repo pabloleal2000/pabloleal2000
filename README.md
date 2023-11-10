@@ -5,7 +5,7 @@
 
 - 💻 Languages Learned:
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="80" height="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="80" height="80" gap="50">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="80" height="80">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="80" height="80">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="80" height="80">
